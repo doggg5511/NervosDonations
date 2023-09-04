@@ -1,4 +1,4 @@
-<img src="https://github.com/doggg5511/NervosDonations/assets/123064471/88fe09b8-ca84-43f7-92e6-56f2ee7efe01" width="500px">
+<img src="https://github.com/doggg5511/NervosDonations/assets/123064471/488f2708-e0dc-43d1-8807-141f62d7552a" width="500px">
 
 # Nervos Donations
 
@@ -64,8 +64,9 @@ VITE_SUPABASE_PROJECT_ID = <SUPABASE_PROJECT_ID>
 
 ## Frontend App - Demo screens:
 
-<img src="https://github.com/doggg5511/NervosDonations/assets/123064471/c9aba8cf-4640-4077-a53c-6909dd21b359" width="700px">
-<img src="https://github.com/doggg5511/NervosDonations/assets/123064471/1061ab6d-d114-4bdc-85cf-1d1b7fa7836f" width="700px">
+<img src="https://github.com/doggg5511/NervosDonations/assets/123064471/803c4a9f-32aa-4ca6-bb7d-5de428b1ca61" width="700px">
+<img src="https://github.com/doggg5511/NervosDonations/assets/123064471/590401e0-67f8-4d4c-a027-6503bce88bea" width="700px">
+
 
 ## CKBull Signer API - Demo screens:
 
@@ -76,8 +77,8 @@ VITE_SUPABASE_PROJECT_ID = <SUPABASE_PROJECT_ID>
   </tr>
   
   <tr>
-    <td><img src="https://github.com/doggg5511/NervosDonations/assets/123064471/e8459a46-3b53-4518-9016-ac1c66587c30" width="250px"></td>
-    <td><img src="https://github.com/doggg5511/NervosDonations/assets/123064471/58efd323-2543-4bd5-8562-604c3feb6a00" width="250px"></td>
+    <td><img src="https://github.com/doggg5511/NervosDonations/assets/123064471/93d4b3cb-4475-45af-8554-df41fb38b58b" width="250px"></td>
+    <td><img src="https://github.com/doggg5511/NervosDonations/assets/123064471/b3bef6bd-84bf-4e96-9f90-fadee1e2525c" width="250px"></td>
   </tr>
 </table>
 
@@ -86,9 +87,9 @@ VITE_SUPABASE_PROJECT_ID = <SUPABASE_PROJECT_ID>
     <td>3. Sign transaction request</td>
     <td>4. Succesful signed tx</td>
   </tr>
-
+  
   <tr>
-    <td><img src="https://github.com/doggg5511/NervosDonations/assets/123064471/f9dbe481-edcc-4e6d-a42b-1889cdf2655c" width="250px"></td>
-    <td><img src="https://github.com/doggg5511/NervosDonations/assets/123064471/2e807301-a342-472b-bd52-ae7dc1c0a131" width="250px"></td>
+    <td><img src="https://github.com/doggg5511/NervosDonations/assets/123064471/606a2db7-cb9d-4979-b7c0-e5a9685698fd" width="250px"></td>
+    <td><img src="https://github.com/doggg5511/NervosDonations/assets/123064471/1af64723-aa86-44ac-bf17-1151899ace81" width="250px"></td>
   </tr>
 </table>
