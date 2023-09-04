@@ -65,9 +65,8 @@ VITE_SUPABASE_PROJECT_ID = <SUPABASE_PROJECT_ID>
 
 ## Frontend App - Demo screens:
 
-<img src="https://github.com/doggg5511/NervosDonations/assets/123064471/803c4a9f-32aa-4ca6-bb7d-5de428b1ca61" width="700px">
-<img src="https://github.com/doggg5511/NervosDonations/assets/123064471/590401e0-67f8-4d4c-a027-6503bce88bea" width="700px">
-
+<img src="https://github.com/doggg5511/NervosDonations/assets/123064471/2a4691fe-62c0-460a-b0d6-11ba38649637" width="700px">
+<img src="https://github.com/doggg5511/NervosDonations/assets/123064471/c69a4ef7-ca8c-4dee-9c00-6285986a00d3" width="700px">
 
 ## CKBull Signer API - Demo screens:
 
@@ -76,10 +75,10 @@ VITE_SUPABASE_PROJECT_ID = <SUPABASE_PROJECT_ID>
     <td>1. Sign in request</td>
     <td>2. Pendind transaction</td>
   </tr>
-  
+
   <tr>
-    <td><img src="https://github.com/doggg5511/NervosDonations/assets/123064471/93d4b3cb-4475-45af-8554-df41fb38b58b" width="250px"></td>
-    <td><img src="https://github.com/doggg5511/NervosDonations/assets/123064471/b3bef6bd-84bf-4e96-9f90-fadee1e2525c" width="250px"></td>
+    <td><img src="https://github.com/doggg5511/NervosDonations/assets/123064471/56d29825-7944-48be-a71b-e5cfe6c2b613" width="250px"></td>
+    <td><img src="https://github.com/doggg5511/NervosDonations/assets/123064471/3e10c7cb-cd48-4777-ac55-a0a1ce953f2a" width="250px"></td>
   </tr>
 </table>
 
@@ -88,9 +87,11 @@ VITE_SUPABASE_PROJECT_ID = <SUPABASE_PROJECT_ID>
     <td>3. Sign transaction request</td>
     <td>4. Succesful signed tx</td>
   </tr>
-  
+  ![image]()
+![image]()
+
   <tr>
-    <td><img src="https://github.com/doggg5511/NervosDonations/assets/123064471/606a2db7-cb9d-4979-b7c0-e5a9685698fd" width="250px"></td>
-    <td><img src="https://github.com/doggg5511/NervosDonations/assets/123064471/1af64723-aa86-44ac-bf17-1151899ace81" width="250px"></td>
+    <td><img src="https://github.com/doggg5511/NervosDonations/assets/123064471/4a66a21d-e547-41d5-871a-b476ea94c94e" width="250px"></td>
+    <td><img src="https://github.com/doggg5511/NervosDonations/assets/123064471/f8befa29-2eb7-496b-81eb-71592d2122ca" width="250px"></td>
   </tr>
 </table>
