@@ -9,6 +9,8 @@
 
 The process of authorization and signing transactions is provided by the **CKBull Signer API**, which makes the user experience **comfortable**, **fast** and **understandable** for all users.
 
+[UPD. tiqim]
+
 --------
 
 - Live demo app: https://nervos-donations.netlify.app/
